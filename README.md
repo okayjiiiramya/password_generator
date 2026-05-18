@@ -22,6 +22,7 @@ This application allows users to generate strong and secure passwords with custo
 ---
 
 # 📂 Project Structure
+'''bash
 
 📁 Password-Generator
 │── index.html
