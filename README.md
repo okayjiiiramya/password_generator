@@ -13,7 +13,7 @@ This application allows users to generate strong and secure passwords with custo
 - 🔠 Include uppercase letters
 - 🔡 Include lowercase letters
 - 🔣 Include symbols
-- 🔢 Include numbers 
+- 🔢 Include numbers
 - 📋 One-click copy to clipboard
 - 💪 Password strength indicator
 - 📱 Fully responsive UI
