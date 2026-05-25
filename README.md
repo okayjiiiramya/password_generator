@@ -19,6 +19,8 @@ This application allows users to generate strong and secure passwords with custo
 - 📱 Fully responsive UI
 - ⚡ Smooth animations & transitions
 
+
+
 ---
 
 # 📂 Project Structure
