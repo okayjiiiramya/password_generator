@@ -15,10 +15,6 @@ https://github.com/okayjiiiramya/password_generator
 
 ---
 
-## 📸 Preview
-
-![Password Generator Preview](assets/preview.png)
-
 ---
 
 # ✨ Features
