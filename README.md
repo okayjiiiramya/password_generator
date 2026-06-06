@@ -5,7 +5,6 @@ This application helps users create strong, secure, and customizable passwords i
 
 ---
 
-
 ## 🌐 Live Demo
 
 🚀 **Website:**  
