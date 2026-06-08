@@ -17,7 +17,6 @@ https://github.com/okayjiiiramya/password_generator
 
 ---
 
-
 # ✨ Features
 
 - 🔑 Generate strong and secure passwords
