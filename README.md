@@ -1,4 +1,3 @@
-
 # 🔐 Password Generator
 
 A modern and responsive **Password Generator Web App** built using **HTML, CSS, JavaScript, and Tailwind CSS**.  
